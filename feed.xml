@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-11-30T16:42:31+00:00</updated><id>/feed.xml</id><title type="html">Edu-blog</title><subtitle>An amazing website.</subtitle><author><name>Néstor González</name></author><entry><title type="html">Aprendizaje Competitivo</title><link href="/educacion/practica4" rel="alternate" type="text/html" title="Aprendizaje Competitivo" /><published>2021-11-21T00:00:00+00:00</published><updated>2021-11-21T00:00:00+00:00</updated><id>/educacion/practica4</id><content type="html" xml:base="/educacion/practica4">&lt;p&gt;
+ En este tipo de aprendizaje se busca una rivalidad entre alumnos para ver quién aprende más, mejor y más deprisa.  Según este modelo, un alumno se encuentra pendiente de dos cosas: la equivocación de un compañero para así obtener ventaja; y, la evaluación positiva de su aprendizaje, una valoración que lo haga destacar sobre el resto. &lt;/p&gt;
+&lt;p&gt;
+A diferencia del aprendizaje individual las acciones del alumno si afecta al resto, aunque no positivamente. &lt;/p&gt;
+
+&lt;table&gt;
+&lt;tr&gt;
+&lt;th&gt;Ventajas&lt;/th&gt;
+&lt;th&gt;Desventajas&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;El nivel de competitividad del alumno suele llevarlo a aumentar su propia exigencia, lo que suele traducirse en mayor nivel de aprendizaje.&lt;/td&gt;
+&lt;td&gt;Al estudiar solo, pueden quedar dudas sin resolver o informaciones mal contrastadas, lo que se traduce en un aprendizaje erróneo o ausencia de aprendizaje.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;La competitividad, bien gestionada, se convierte en un estímulo para el alumno para alcanzar el máximo de sí mismo.&lt;/td&gt;
+&lt;td&gt;Puede aparecer cierto nivel de egocentrismo y falta de empatía hacia los demás.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</content><author><name>Néstor González</name></author><category term="educacion" /><summary type="html">En este tipo de aprendizaje se busca una rivalidad entre alumnos para ver quién aprende más, mejor y más deprisa. Según este modelo, un alumno se encuentra pendiente de dos cosas: la equivocación de un compañero para así obtener ventaja; y, la evaluación positiva de su aprendizaje, una valoración que lo haga destacar sobre el resto. A diferencia del aprendizaje individual las acciones del alumno si afecta al resto, aunque no positivamente.</summary></entry><entry><title type="html">Aprendizaje Cooperativo</title><link href="/educacion/practica5" rel="alternate" type="text/html" title="Aprendizaje Cooperativo" /><published>2021-11-21T00:00:00+00:00</published><updated>2021-11-21T00:00:00+00:00</updated><id>/educacion/practica5</id><content type="html" xml:base="/educacion/practica5">&lt;p&gt;
+ En este tipo de aprendizaje consiste en alumnos que trabajan juntos para alcanzar objetivos comunes, procurando obtener resultados que sean beneficiosos para todos los miembros del grupo, maximizando así su propio aprendizaje . Este aprendizaje es grupal y solo puede darse en el pequeño grupo. &lt;/p&gt;
+&lt;p&gt;
+A diferencia del aprendizaje cooperativo las acciones del alumno si afecta al resto positivamente. Es necesario colaborar para alcanzar los objetivos. &lt;/p&gt;
+
+&lt;table&gt;
+&lt;tr&gt;
+&lt;th&gt;Ventajas&lt;/th&gt;
+&lt;th&gt;Desventajas&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Aumenta la motivación y la colaboración de los alumnos. Además aprenden unos de otros, equilibrando el ritmo de trabajo en un ambiente de superación.&lt;/td&gt;
+&lt;td&gt;Los alumnos tienen que venir con los contenidos preparados. Requiere mayor esfuerzo (compromiso).&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Los estudiantes están motivados a dar lo mejor de sí para ayudar al éxito del equipo.&lt;/td&gt;
+&lt;td&gt;Los grupos presentan desequilibrios internos que son complicados de compensar.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</content><author><name>Néstor González</name></author><category term="educacion" /><summary type="html">En este tipo de aprendizaje consiste en alumnos que trabajan juntos para alcanzar objetivos comunes, procurando obtener resultados que sean beneficiosos para todos los miembros del grupo, maximizando así su propio aprendizaje . Este aprendizaje es grupal y solo puede darse en el pequeño grupo. A diferencia del aprendizaje cooperativo las acciones del alumno si afecta al resto positivamente. Es necesario colaborar para alcanzar los objetivos.</summary></entry><entry><title type="html">Aprendizaje Individual</title><link href="/educacion/practica3" rel="alternate" type="text/html" title="Aprendizaje Individual" /><published>2021-08-09T00:00:00+00:00</published><updated>2021-08-09T00:00:00+00:00</updated><id>/educacion/practica3</id><content type="html" xml:base="/educacion/practica3">&lt;p&gt;
+En este tipo de  aprendizaje cada alumno trabaja de manera independiente para su propio beneficio personal sin apenas contacto con el resto de compañeros. &lt;/p&gt;
+&lt;p&gt;
+El hecho de que un alumno alcance o no su meta no va a influir en que los demás alcancen o no las suya. &lt;/p&gt;
+
+&lt;table&gt;
+&lt;tr&gt;
+&lt;th&gt;Ventajas&lt;/th&gt;
+&lt;th&gt;Desventajas&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt; Permite evaluar el verdadero trabajo de cada alumno.&lt;/td&gt;
+&lt;td&gt;Se gasta mucho tiempo en evaluar a cada alumno.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;El alumno puede marcar su ritmo de estudio y aprendizaje. El alumno se responsabiliza de sus propias decisiones.&lt;/td&gt;
+&lt;td&gt;No enriquece el proceso de aprendizaje a través del intercambio.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;</content><author><name>Néstor González</name></author><category term="educacion" /><summary type="html">En este tipo de aprendizaje cada alumno trabaja de manera independiente para su propio beneficio personal sin apenas contacto con el resto de compañeros. El hecho de que un alumno alcance o no su meta no va a influir en que los demás alcancen o no las suya.</summary></entry><entry><title type="html">Daredevil, la mejor serie de Marvel</title><link href="/blog/post2" rel="alternate" type="text/html" title="Daredevil, la mejor serie de Marvel" /><published>2021-07-09T00:00:00+00:00</published><updated>2021-07-09T00:00:00+00:00</updated><id>/blog/post2</id><content type="html" xml:base="/blog/post2">&lt;h2 id=&quot;daredevil-la-mejor-serie-de-marvel&quot;&gt;Daredevil, la mejor serie de Marvel&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.latercera.com/resizer/n3jXtTiAWEbVG0Rmpp9C9kd_Kvw=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/NIEEX4Z3BRG6RNMXZ5BEIPBPRE.jpg&quot; width=&quot;60%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;
+Daredevil sorprendió llevando al Universo Cinematográfico de Marvel (MCU) a un terreno nuevo e inexplorado en las películas y series antes mencionadas, con un tono más oscuro y realista, logrando al mismo tiempo una fidelidad al cómic que recompensará a los fanáticos y conocedores de éste, pero haciendo de ella de algo que se extiende mucho más allá del mero género de superhéroes.
+&lt;/p&gt;
+&lt;p&gt;
+Curiosamente, esto último (la parte «de superhéroes») es la menor parte de la serie, pero está esencialmente representado en sus dos grandes antagonistas: Matt Murdock y Wilson Fisk.
+&lt;/p&gt;
+&lt;p&gt;
+A diferencia del resto de las producciones del MCU, aquí no hay amenazas alienígenas ni elementos mágicos o místicos ni dioses, al menos por ahora, aunque algunas pequeñas referencias a estos hay (plantando por ejemplo los indicios para la próxima serie Iron Fist, que tendrá el misticisimo como parte esencial).
+&lt;/p&gt;
+&lt;p&gt;
+
+
+Aquí, héroes y villanos deben lidiar con cosas más mundanas como complejos asuntos legales, corrupción policial, medios de comunicación, intereses corporativos, la crisis inmobiliaria y la especulación financiera.
+&lt;/p&gt;
+&lt;p&gt;
+La conexión con el MCU se reduce a algunas referencias ocasionales a la batalla de Nueva York (la que vimos en The Avengers), algún chiste respecto a cómo hizo Matt Murdock para vencer a un grupo de villanos armados si no tiene “ni una armadura de hierro ni un martillo mágico” y alguna referencia a “otros mundos”, pero esto ayuda a esa sensación de que es algo diferente de lo que hemos visto hasta ahora.
+&lt;/p&gt;
+&lt;p&gt;
+La serie es además mucho más violenta y “adulta” que el resto de las películas y series de Marvel, pero además de brillantes e intensas secuencias de pelea, la violencia no es tan gráfica como se puede pensar sino más bien sugerida, lo que en cierto sentido es más impactante.
+&lt;/p&gt;
+&lt;p&gt;
+Las secuencias más «gore» (decapitaciones, mutilaciones, cráneos destrozados, etc.) no se filman directamente, no aparecen en pantalla; aparecen en cambio el agresor, el sonido —aspecto fundamental de la serie, debido a la proverbial ceguera del héroe— y la consecuencia. Y esto suele ser muy efectivo.
+&lt;/p&gt;
+&lt;p&gt;
+
+&lt;h2&gt;Sin apuros&lt;/h2&gt;
+
+&lt;p&gt;
+En los cómics, Daredevil supo tener toda una galería de villanos con los que lidiar, muchos de ellos memorables, pero la serie toma inspiración principalmente de la era de Frank Miller en los cómics, quien no utilizó demasiados villanos y fue responsable de que Wilson Fisk se convirtiera en el archienemigo por excelencia de Matt Murdock.
+
+
+&lt;/p&gt;
+
+&lt;p&gt;Autor: Néstor González &lt;/p&gt;
+&lt;p&gt;Frase: I am an **amazing** person. &lt;/p&gt;
+
+&lt;/p&gt;</content><author><name>Néstor González</name></author><category term="blog" /><summary type="html">Daredevil, la mejor serie de Marvel Daredevil sorprendió llevando al Universo Cinematográfico de Marvel (MCU) a un terreno nuevo e inexplorado en las películas y series antes mencionadas, con un tono más oscuro y realista, logrando al mismo tiempo una fidelidad al cómic que recompensará a los fanáticos y conocedores de éste, pero haciendo de ella de algo que se extiende mucho más allá del mero género de superhéroes. Curiosamente, esto último (la parte «de superhéroes») es la menor parte de la serie, pero está esencialmente representado en sus dos grandes antagonistas: Matt Murdock y Wilson Fisk. A diferencia del resto de las producciones del MCU, aquí no hay amenazas alienígenas ni elementos mágicos o místicos ni dioses, al menos por ahora, aunque algunas pequeñas referencias a estos hay (plantando por ejemplo los indicios para la próxima serie Iron Fist, que tendrá el misticisimo como parte esencial). Aquí, héroes y villanos deben lidiar con cosas más mundanas como complejos asuntos legales, corrupción policial, medios de comunicación, intereses corporativos, la crisis inmobiliaria y la especulación financiera. La conexión con el MCU se reduce a algunas referencias ocasionales a la batalla de Nueva York (la que vimos en The Avengers), algún chiste respecto a cómo hizo Matt Murdock para vencer a un grupo de villanos armados si no tiene “ni una armadura de hierro ni un martillo mágico” y alguna referencia a “otros mundos”, pero esto ayuda a esa sensación de que es algo diferente de lo que hemos visto hasta ahora. La serie es además mucho más violenta y “adulta” que el resto de las películas y series de Marvel, pero además de brillantes e intensas secuencias de pelea, la violencia no es tan gráfica como se puede pensar sino más bien sugerida, lo que en cierto sentido es más impactante. Las secuencias más «gore» (decapitaciones, mutilaciones, cráneos destrozados, etc.) no se filman directamente, no aparecen en pantalla; aparecen en cambio el agresor, el sonido —aspecto fundamental de la serie, debido a la proverbial ceguera del héroe— y la consecuencia. Y esto suele ser muy efectivo. Sin apuros En los cómics, Daredevil supo tener toda una galería de villanos con los que lidiar, muchos de ellos memorables, pero la serie toma inspiración principalmente de la era de Frank Miller en los cómics, quien no utilizó demasiados villanos y fue responsable de que Wilson Fisk se convirtiera en el archienemigo por excelencia de Matt Murdock. Autor: Néstor González Frase: I am an **amazing** person.</summary></entry></feed>
